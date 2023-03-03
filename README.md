@@ -11,7 +11,7 @@ PyJS-SQL is a web application that allows users to perform CRUD operations on a 
 
 ## Requirements
 
-https://www.python.org/downloads/ https://flask.palletsprojects.com/en/2.0.x/installation/ https://docs.sqlalchemy.org/en/14/intro.html#installation-guide https://developer.mozilla.org/en-US/docs/Web/JavaScript  https://getbootstrap.com/docs/5.1/getting-started/download/
+<--python--><a href="https://www.python.org/downloads/"></a> https://flask.palletsprojects.com/en/2.0.x/installation/ https://docs.sqlalchemy.org/en/14/intro.html#installation-guide https://developer.mozilla.org/en-US/docs/Web/JavaScript  https://getbootstrap.com/docs/5.1/getting-started/download/
 
 ## Installation
 ```
