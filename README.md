@@ -1,5 +1,5 @@
 # PyJS-SQL
-![logo]("https://imgbox.com/y98PHrHU")
+![logo](https://thumbs2.imgbox.com/7e/0d/y98PHrHU_b.png)
 
 PyJS-SQL is a web application that allows users to perform CRUD operations on a SQL database using Python and JavaScript. The application provides a user-friendly interface that allows users to create, read, update, and delete records in the database.
 
