@@ -34,4 +34,5 @@ PyJS-SQL is a web application that allows users to perform CRUD operations on a 
 Pull requests and issues are welcome! If you find a bug or have a feature request, please open an issue on the repository.
 
 ## License
-For more information check [LICENSE.md](https://github.com/Vickouma77/PyJS-SQL/blob/main/LICENSE.md)
+
+[LICENSE.md](https://github.com/Vickouma77/PyJS-SQL/blob/main/LICENSE.md)
